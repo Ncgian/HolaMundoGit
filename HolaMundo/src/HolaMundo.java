@@ -2,9 +2,8 @@
 public class HolaMundo {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		//Esto es un comentario nuevo
-
+		System.out.println("1 cambio - Consola");
+		System.out.println("2 cambio - Eclipse");
 	}
 
 }
